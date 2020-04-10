@@ -4,76 +4,76 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 8326080376587933365
-    second: doctor-spritesheet
+    second: walk-up_0
   - first:
       213: -4002197457400272144
-    second: doctor-spritesheet_1
+    second: walk-up_1
   - first:
       213: 8810770133909839167
-    second: doctor-spritesheet_2
+    second: walk-up_2
   - first:
       213: 4930362313634165446
-    second: doctor-spritesheet_3
+    second: walk-up_3
   - first:
       213: 3795672353642279045
-    second: doctor-spritesheet_4
+    second: walk-up_4
   - first:
       213: -431557179368624219
-    second: doctor-spritesheet_5
+    second: walk-up_5
   - first:
       213: -7634396483051019452
-    second: doctor-spritesheet_6
+    second: walk-down_0
   - first:
       213: -3089800777496306829
-    second: doctor-spritesheet_7
+    second: walk-down_1
   - first:
       213: -1261144294246025591
-    second: doctor-spritesheet_8
+    second: walk-down_2
   - first:
       213: -9017306067686509262
-    second: doctor-spritesheet_9
+    second: walk-down_3
   - first:
       213: -3415060615979962764
-    second: doctor-spritesheet_10
+    second: walk-down_4
   - first:
       213: 5417857476655026476
-    second: doctor-spritesheet_11
+    second: walk-down_5
   - first:
       213: -5620761030233784770
-    second: doctor-spritesheet_12
+    second: walk-right_0
   - first:
       213: -3232883368038640471
-    second: doctor-spritesheet_13
+    second: walk-right_1
   - first:
       213: 7006192724631485104
-    second: doctor-spritesheet_14
+    second: walk-right_2
   - first:
       213: -1364101799909753663
-    second: doctor-spritesheet_15
+    second: walk-right_3
   - first:
       213: -4326899170585936706
-    second: doctor-spritesheet_16
+    second: walk-right_4
   - first:
       213: -4334730270664056348
-    second: doctor-spritesheet_17
+    second: walk-right_5
   - first:
       213: 3803228929777909855
-    second: doctor-spritesheet_18
+    second: walk-left_0
   - first:
       213: 9511841716217376
-    second: doctor-spritesheet_19
+    second: walk-left_1
   - first:
       213: -293799349911522529
-    second: doctor-spritesheet_20
+    second: walk-left_2
   - first:
       213: 9193573467793309386
-    second: doctor-spritesheet_21
+    second: walk-left_3
   - first:
       213: -6963797051931776277
-    second: doctor-spritesheet_22
+    second: walk-left_4
   - first:
       213: 4028160245362825955
-    second: doctor-spritesheet_23
+    second: walk-left_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -171,7 +171,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: doctor-spritesheet
+      name: walk-up_0
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_1
+      name: walk-up_1
       rect:
         serializedVersion: 2
         x: 16
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_2
+      name: walk-up_2
       rect:
         serializedVersion: 2
         x: 32
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_3
+      name: walk-up_3
       rect:
         serializedVersion: 2
         x: 48
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_4
+      name: walk-up_4
       rect:
         serializedVersion: 2
         x: 64
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_5
+      name: walk-up_5
       rect:
         serializedVersion: 2
         x: 80
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_6
+      name: walk-down_0
       rect:
         serializedVersion: 2
         x: 0
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_7
+      name: walk-down_1
       rect:
         serializedVersion: 2
         x: 16
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_8
+      name: walk-down_2
       rect:
         serializedVersion: 2
         x: 32
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_9
+      name: walk-down_3
       rect:
         serializedVersion: 2
         x: 48
@@ -381,7 +381,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_10
+      name: walk-down_4
       rect:
         serializedVersion: 2
         x: 64
@@ -402,7 +402,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_11
+      name: walk-down_5
       rect:
         serializedVersion: 2
         x: 80
@@ -423,7 +423,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_12
+      name: walk-right_0
       rect:
         serializedVersion: 2
         x: 0
@@ -444,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_13
+      name: walk-right_1
       rect:
         serializedVersion: 2
         x: 16
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_14
+      name: walk-right_2
       rect:
         serializedVersion: 2
         x: 32
@@ -486,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_15
+      name: walk-right_3
       rect:
         serializedVersion: 2
         x: 48
@@ -507,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_16
+      name: walk-right_4
       rect:
         serializedVersion: 2
         x: 64
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_17
+      name: walk-right_5
       rect:
         serializedVersion: 2
         x: 80
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_18
+      name: walk-left_0
       rect:
         serializedVersion: 2
         x: 0
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_19
+      name: walk-left_1
       rect:
         serializedVersion: 2
         x: 16
@@ -591,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_20
+      name: walk-left_2
       rect:
         serializedVersion: 2
         x: 32
@@ -612,7 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_21
+      name: walk-left_3
       rect:
         serializedVersion: 2
         x: 48
@@ -633,7 +633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_22
+      name: walk-left_4
       rect:
         serializedVersion: 2
         x: 64
@@ -654,7 +654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doctor-spritesheet_23
+      name: walk-left_5
       rect:
         serializedVersion: 2
         x: 80
