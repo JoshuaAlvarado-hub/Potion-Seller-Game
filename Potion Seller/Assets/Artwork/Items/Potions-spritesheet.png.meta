@@ -1,16 +1,43 @@
 fileFormatVersion: 2
-guid: 62cc53dc034256e49b9e6067702f3d3e
+guid: b0ffa905593654941ba76f8b331e6131
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5676601102833861787
-    second: blue
+    second: potion-blue-full
   - first:
       213: -1031152844731229731
-    second: green
+    second: potion-blue-large
   - first:
       213: -4833831880135525018
-    second: red
+    second: potion-blue-medium
+  - first:
+      213: -8152522832652358609
+    second: potion-blue-small
+  - first:
+      213: -215954143008703985
+    second: potion-green-full
+  - first:
+      213: 2389023201430877396
+    second: potion-green-large
+  - first:
+      213: 719519807655680533
+    second: potion-green-medium
+  - first:
+      213: -46484107795563407
+    second: potion-green-small
+  - first:
+      213: -3328132968834364042
+    second: potion-red-full
+  - first:
+      213: -4657984418177215149
+    second: potion-red-large
+  - first:
+      213: -2719982162327286754
+    second: potion-red-medium
+  - first:
+      213: -5110374206594459697
+    second: potion-red-small
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -75,7 +102,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -87,7 +114,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -99,7 +126,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -108,7 +135,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blue
+      name: potion-blue-full
       rect:
         serializedVersion: 2
         x: 0
@@ -129,11 +156,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green
+      name: potion-blue-large
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
+        x: 16
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -150,7 +177,133 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red
+      name: potion-blue-medium
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d30980487caecb0800000000000000
+      internalID: -4833831880135525018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-blue-small
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cae787dab6cde80800000000000000
+      internalID: -8152522832652358609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-green-full
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3132e9d6c00df0800000000000000
+      internalID: -215954143008703985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-green-large
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43471b1f3872120800000000000000
+      internalID: 2389023201430877396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-green-medium
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9c20f37f3cf900800000000000000
+      internalID: 719519807655680533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-green-small
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf42343fada5ff0800000000000000
+      internalID: -46484107795563407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-red-full
       rect:
         serializedVersion: 2
         x: 0
@@ -164,8 +317,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66d30980487caecb0800000000000000
-      internalID: -4833831880135525018
+      spriteID: 67d8c53b2b810d1d0800000000000000
+      internalID: -3328132968834364042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-red-large
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551e39c9d38b5fb0800000000000000
+      internalID: -4657984418177215149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-red-medium
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c451b62aea04ad0800000000000000
+      internalID: -2719982162327286754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion-red-small
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75e9a2cbd4419b0800000000000000
+      internalID: -5110374206594459697
       vertices: []
       indices: 
       edges: []
